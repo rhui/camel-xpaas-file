@@ -1,0 +1,18 @@
+# IntelliJ Idea
+*.iml
+.idea/
+
+# Eclipse
+.classpath
+.project
+.settings/ 
+
+
+
+
+# Ignore ActiveMQ test data
+activemq-data/
+
+*.log
+*.jar
+target
